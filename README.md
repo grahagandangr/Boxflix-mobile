@@ -13,4 +13,4 @@ Struktur Folder:
     - users - mongodb (port: 4001)
     - app - postgres (port: 4002)
 
-## **[expo-link](https://expo.dev/@grahagandangr/boxflix?serviceType=classic&distribution=expo-go)**
+**[expo-link](https://expo.dev/@grahagandangr/boxflix?serviceType=classic&distribution=expo-go)**

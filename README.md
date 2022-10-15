@@ -4,7 +4,7 @@ UI Library: -
 
 Struktur Folder:
 
-- client-mobile
+- client-mobile **[expo-boxflix-mobile](https://expo.dev/@grahagandangr/boxflix?serviceType=classic&distribution=expo-go)**
 - server
 
   - orchestrator (port: 4000)
@@ -13,4 +13,4 @@ Struktur Folder:
     - users - mongodb (port: 4001)
     - app - postgres (port: 4002)
 
-**[expo-link](https://expo.dev/@grahagandangr/boxflix?serviceType=classic&distribution=expo-go)**
+

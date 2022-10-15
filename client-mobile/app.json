@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Boxflix",
+    "slug": "boxflix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/BOXFLIX_LOGO_FULL_BLACK.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/BOXFLIX_LOGO_FULL.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/BOXFLIX_LOGO_FULL.png"
+    }
+  }
+}
